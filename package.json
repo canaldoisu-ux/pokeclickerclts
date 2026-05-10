@@ -35,11 +35,8 @@
     "url": "https://github.com/pokeclicker/pokeclicker/issues"
   },
   "homepage": "https://github.com/pokeclicker/pokeclicker#readme",
-  "devEngines": {
-    "runtime": {
-      "name": "node",
-      "version": "22.x"
-    }
+  "engines": {
+    "node": "22.x"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
@@ -105,6 +102,12 @@
     "jquery": "^3.5.1",
     "knockout": "^3.5.1",
     "popper.js": "^1.16.0",
+    "sortablejs": "^1.10.2"
+  },
+  "overrides": {
+    "clean-css": ">=5.3.1"
+  }
+}    "popper.js": "^1.16.0",
     "sortablejs": "^1.10.2"
   },
   "overrides": {
