@@ -109,7 +109,7 @@
   }
 }    "popper.js": "^1.16.0",
     "sortablejs": "^1.10.2"
-  },
+  }
   "overrides": {
     "clean-css": ">=5.3.1"
   }
